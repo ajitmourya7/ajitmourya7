@@ -129,7 +129,6 @@ I'm interested in **software architecture, distributed systems, backend engineer
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajit-mourya-6415ab11b/)
 - 💻 [GitHub](https://github.com/ajitmourya7)
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/8398870/ajit-mourya)
 - ✉️ [Email](mailto:mourya33@gmail.com)
 
 <div align="center">
