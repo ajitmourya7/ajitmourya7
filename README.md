@@ -1,30 +1,139 @@
-<h1 align="center">Hi 👋, I'm Ajit Mourya</h1>
-<h3 align="center">A passionate Software/DevOps Engineer.</h3>
+<div align="center">
 
-<a href="https://github.com/ajitmourya7"><img src="https://img.shields.io/github/followers/ajitmourya7?label=Follow&style=social" alt="ajitmourya7" /></a>
-<a href="https://github.com/ajitmourya7"><img src="https://komarev.com/ghpvc/?username=ajitmourya7&label=Profile%20views&color=0e75b6&style=flat" alt="ajitmourya7" /></a>
-<a href="https://github.com/ajitmourya7"><img class="center" alt="Ajit Mourya's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ajitmourya7.ajitmourya7"/></a>
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitmourya7" alt="ajitmourya7" /></a> </p>
+# Hi 👋, I'm Ajit Mourya
 
-- 🔭 I’m currently working on **Django Software Development, Python Open Source Libraries.**
+### Principal Engineer · Software Architecture · Distributed Systems · Platform Engineering
 
-- 🌱 I’m currently learning **Code Optimization, Devops.**
+**Building scalable software, reliable platforms, and production-ready infrastructure.**
 
-- 💬 Ask me about **Frontend, Backend, DevOps**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-mourya-6415ab11b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajitmourya7)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mourya33@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8398870/ajit-mourya)
 
-- 📫 How to reach me **mourya33@gmail.com**
+![Profile views](https://komarev.com/ghpvc/?username=ajitmourya7&label=Profile%20Views&color=0e75b6&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajit-mourya-6415ab11b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit-mourya-6415ab11b" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitmourya7&show_icons=true&locale=en&layout=compact" alt="ajitmourya7" /></p>
+I'm a **Principal Engineer at Artem HealthTech** with **7+ years of professional software engineering experience** across **Healthcare, AI/ML, FinTech, Industrial Analytics, and Enterprise Infrastructure**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitmourya7&show_icons=true&locale=en" alt="ajitmourya7" /></p>
+My foundation is in **Python/Django, backend engineering, and software architecture**. Today, my work spans distributed systems, microservices, databases, Kubernetes, cloud and on-premises infrastructure, DevOps, SRE, DevSecOps, and technical leadership.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitmourya7&" alt="ajitmourya7" /></p>
+- 🏥 **Healthcare platforms:** Architecture and engineering for **HMIS, PACS, LIS, and Advanced Visualization Servers (AVS)**.
+- 🏗️ **Platform engineering:** Built an on-premises infrastructure ecosystem from scratch, spanning compute, networking, virtualization, storage, Kubernetes, CI/CD, security, and observability across development-to-production environments.
+- 📉 **Business impact:** Helped achieve an **approximately 70% reduction in infrastructure and platform operating costs** through platform consolidation, open-source adoption, and infrastructure optimization.
+- 🖥️ **GPU-enabled visualization:** Developed remote visualization capabilities with **Proxmox GPU passthrough, TigerVNC, Python, and Django**.
+- 🔐 **Engineering leadership:** Lead technical initiatives across **Networking & Servers, DevOps, SRE, and Security**, with a focus on scalable, secure, maintainable systems.
+- 🤝 **AI/ML collaboration:** Work with teams integrating **ASR, LLMs, document intelligence, and medical image processing** into applications.
+
+> **My focus:** Architecture decisions that translate into better performance, reliability, security, developer productivity, and cost efficiency.
+
+## 🧭 What I Work On
+
+| Area | Focus |
+| --- | --- |
+| **Software architecture** | Distributed systems, microservices, APIs, multi-tenancy, event-driven applications |
+| **Backend engineering** | Python, Django, FastAPI, Flask, Java, Spring Boot, asynchronous processing |
+| **Platform engineering** | Kubernetes, GKE, RKE2, Rancher, Proxmox, Docker, hybrid cloud |
+| **Data & messaging** | MySQL, PostgreSQL, Redis, Apache Kafka, Apache Doris, CDC, database tuning |
+| **DevOps, SRE & Security** | GitLab CI/CD, SonarQube, Wazuh, observability, platform hardening |
+| **Healthcare systems** | HMIS, PACS, LIS, medical imaging, GPU-backed remote visualization |
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Cloud, Containers & Virtualization**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Data, Messaging & Engineering Platforms**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=flat-square&logoColor=white)
+
+**Also working with:** Apache Doris, RKE2, SAN storage, GPU passthrough, TigerVNC, Celery, Django-Q, Gateway API, networking, and monitoring/observability tooling.
+
+## 🚀 Selected Engineering Work
+
+> Most enterprise initiatives below are proprietary. These summaries describe my contributions without exposing private source code or production architecture.
+
+| Initiative | My contribution |
+| --- | --- |
+| **Enterprise on-premises platform** | Greenfield infrastructure, virtualization, Kubernetes, CI/CD, security, and observability; **~70% reported infrastructure/platform cost reduction** |
+| **Healthcare systems (HMIS / PACS / LIS)** | Architecture, integrations, backend and infrastructure engineering, SAN-backed imaging and data services |
+| **Advanced Visualization Server** | GPU-passthrough VMs and remote visualization services built with Proxmox, Django, and TigerVNC |
+| **Insurance claims automation** | Led backend architecture and integrations for document classification, extraction, validation, and claims workflows |
+| **Invogo invoice analysis** | Multi-tenant invoice digitization, QR parsing, AI/ML integrations, and asynchronous processing |
+| **SAP-integrated procurement** | Developed automated sales and procurement workflows; **~85% reported turnaround improvement** |
+| **Industrial datalogging** | Monitoring and reporting platform handling approximately **75,000 requests/day** |
+| **OneTeam (Genesis client engagement)** | Enterprise HR and business operations modules using Django, Angular, and DevOps workflows |
+
+## 📦 Open Source
+
+- **[django-azure-backup](https://pypi.org/project/django-azure-backup/)** — Python/Django package published on PyPI.
+- **[django-single-auth](https://pypi.org/project/django-single-auth/)** — Django-related authentication package published on PyPI.
+
+Explore more in [my repositories](https://github.com/ajitmourya7?tab=repositories).
+
+## 💼 Career Snapshot
+
+- **Principal Engineer** · Artem HealthTech Pvt. Ltd. · Nov 2024 – Present
+- **Software Developer → Senior Software Developer → Team Lead Engineer** · Genesis Artificial Intelligence Pvt. Ltd. · Jun 2019 – Nov 2024
+  - Includes **OneTeam / RewaSoft** client engagement (Nov 2021 – Jun 2023).
+- **Full Stack Developer** · AliteProjects · 2019
+- **Earlier experience:** Android development and internships (2017–2018)
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitmourya7&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitmourya7&layout=compact&hide_border=true)
+
+</div>
+
+> GitHub widgets reflect **public repository activity**, not my full professional engineering experience. They are provided by third-party services and may occasionally be unavailable.
+
+## 🎓 Education
+
+**Bachelor of Computer Science and Engineering** · ITM Vocational University · 2015–2019 · **9.3 CGPA**
+
+## 🤝 Let's Connect
+
+I'm interested in **software architecture, distributed systems, backend engineering, platform engineering, and meaningful technical collaboration**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajit-mourya-6415ab11b/)
+- 💻 [GitHub](https://github.com/ajitmourya7)
+- 🧠 [Stack Overflow](https://stackoverflow.com/users/8398870/ajit-mourya)
+- ✉️ [Email](mailto:mourya33@gmail.com)
+
+<div align="center">
+
+*Designing systems from architecture and code to infrastructure, security, and production operations.*
+
+</div>
