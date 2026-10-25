@@ -99,14 +99,6 @@ My foundation is in **Python/Django, backend engineering, and software architect
 
 Explore more in [my repositories](https://github.com/ajitmourya7?tab=repositories).
 
-## 💼 Career Snapshot
-
-- **Principal Engineer** · Artem HealthTech Pvt. Ltd. · Nov 2024 – Present
-- **Software Developer → Senior Software Developer → Team Lead Engineer** · Genesis Artificial Intelligence Pvt. Ltd. · Jun 2019 – Nov 2024
-  - Includes **OneTeam / RewaSoft** client engagement (Nov 2021 – Jun 2023).
-- **Full Stack Developer** · AliteProjects · 2019
-- **Earlier experience:** Android development and internships (2017–2018)
-
 ## 📊 GitHub Activity
 
 <div align="center">
